@@ -9,7 +9,7 @@
 - 💬 Ask me about: React.js, JavaScript (ES6+), Tailwind CSS, UI/UX design, Web APIs
 - 📫 How to reach me: veerababuc21@gmail.com
 😄 Pronouns: He/Him
--⚡Fun fact: I love turning ideas into beautiful, functional web apps and exploring new tech trends
+- ⚡Fun fact: I love turning ideas into beautiful, functional web apps and exploring new tech trends
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/c-veerababu-771a35284) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:veerababuc21@gmail.com) 
