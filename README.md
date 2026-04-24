@@ -50,42 +50,42 @@ Actively exploring **modern web technologies** and **AI-driven applications**.
 
 ## Selected Work
 
-### AgroConnect  
-Farm-to-Table Supply Chain Platform | MERN Stack
+### VeeraStore
+Full-Stack E-Commerce Platform | MERN Stack + Razorpay + Cloudinary
 
-- Designed and developed a full-stack platform connecting multiple user roles  
-- Implemented JWT authentication and role-based dashboards  
-- Built REST APIs for product, order, and delivery workflows  
-- Developed responsive UI using React.js and Tailwind CSS  
+- Built dual-role access for Users and Admins with JWT authentication and Bcrypt password hashing
+- Integrated Razorpay payment gateway with server-side signature verification for secure checkout
+- Built dynamic product filtering engine that generates nested subcategory sidebars from live MongoDB data
+- Handled product image uploads via Multer streamed directly to Cloudinary CDN
 
-<a href="https://github.com/Cveerababu15/AgroConnect">Repository</a> •
-<a href="https://agro-connect-wgmn.vercel.app">Live Demo</a>
-
----
-
-### ChitChat Web  
-Real-Time Chat Application | MERN + Socket.io
-
-- Developed real-time messaging with WebSockets  
-- Implemented typing indicators and online/offline presence  
-- Built scalable backend with Node.js & Express.js  
-- Stored chat data using MongoDB  
-
-<a href="https://github.com/Cveerababu15/ChitChat-Web">Repository</a> •
-<a href="https://chit-chat-web-zeta.vercel.app/">Live Demo</a>
+<a href="https://github.com/Cveerababu15/Ecommerce_Website">Repository</a> •
+<a href="https://ecommerce-website-leyo.vercel.app/">Live Demo</a>
 
 ---
 
-### Service Booking Platform  
-Full-Stack Web Application | MERN Stack
+### NewsHub
+MERN News Platform with Hugging Face AI | MERN Stack + Hugging Face API + Cloudinary
 
-- Implemented secure JWT-based authentication  
-- Developed role-based access (User/Admin)  
-- Created RESTful backend APIs  
-- Built responsive React interface  
+- Integrated Hugging Face Inference API with a personal access token to auto-summarize every article on creation
+- Built a personalized For You feed using MongoDB $in operator matched against each user's saved interests with a trending news fallback for new users
+- Implemented Optimistic UI for real-time view counts and recursive comment-reply threads using nested MongoDB subdocuments
+- Handled article and profile image uploads via Multer streamed to Cloudinary
 
-<a href="https://github.com/Cveerababu15/Service-Booking-Platform">Repository</a> •
-<a href="https://service-booking-website-alpha.vercel.app/">Live Demo</a>
+<a href="https://github.com/Cveerababu15/">Repository</a> •
+<a href="#">Live Demo</a>
+
+---
+
+### AI Job Application Tracker
+Resume ATS Analyzer | MERN Stack + pdf-parse + Multer
+
+- Built a PDF resume parser using Multer and pdf-parse that extracts text and compares it against a job description
+- Returns a keyword match score with missing terms so users know exactly what to fix before applying
+- Implemented JWT authentication with Axios interceptors that automatically attach tokens to every API request
+- Added instant file deletion after parsing so uploaded resumes never sit on the server
+
+<a href="https://github.com/Cveerababu15/AI-Job-Application-Tracker">Repository</a> •
+<a href="https://ai-job-application-tracker-ten.vercel.app/">Live Demo</a>
 
 ---
 
