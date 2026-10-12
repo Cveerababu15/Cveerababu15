@@ -33,7 +33,7 @@ Currently, I am looking for a **full-time Software Developer / Full Stack Develo
   <img src="https://skillicons.dev/icons?i=javascript,python" />
 </p>
 
-**JavaScript (ES6+)** · **Python** · **SQL**
+**JavaScript (ES6+)** · **Python** · **SQL** · **TypeScript**
 
 ### Frontend
 
@@ -41,7 +41,7 @@ Currently, I am looking for a **full-time Software Developer / Full Stack Develo
   <img src="https://skillicons.dev/icons?i=react,typescript,html,css,tailwind,redux" />
 </p>
 
-**React.js** · **TypeScript** · **Redux Toolkit** · **HTML5** · **CSS3** · **Tailwind CSS**
+**React.js** · **TypeScript** · **Redux Toolkit** · **Zustand** · **HTML5** · **CSS3** · **Tailwind CSS**
 
 ### Backend
 
