@@ -33,7 +33,7 @@ Currently, I am looking for a **full-time Software Developer / Full Stack Develo
   <img src="https://skillicons.dev/icons?i=javascript,python" />
 </p>
 
-**JavaScript (ES6+)** · **Python** · **SQL** · **TypeScript**
+**JavaScript (ES6+)** · **Python** · **SQL** · 
 
 ### Frontend
 
