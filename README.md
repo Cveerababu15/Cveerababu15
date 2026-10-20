@@ -57,7 +57,7 @@ Currently, I am looking for a **full-time Software Developer / Full Stack Develo
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-**MongoDB** · **Mongoose** · **SQL**
+**MongoDB** · **Mongoose** 
 
 ### Authentication & Security
 
