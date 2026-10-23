@@ -15,11 +15,11 @@
 
 ## About Me
 
-I am a **Software Developer and 2025 Computer Science graduate** with **4 months of web development internship experience** and hands-on experience building and deploying full-stack MERN applications.
+I am a **Software Developer and 2025 Computer Science graduate** with hands-on experience in **MERN Stack development, full-stack application development, REST APIs, authentication, database design, and modern frontend development**.
 
-My primary focus is building practical web applications using **React.js, JavaScript, Node.js, Express.js, MongoDB, REST APIs, JWT authentication, and RBAC**.
+My primary focus is building practical web applications using **React.js, JavaScript, Node.js, Express.js, MongoDB, TypeScript, Next.js, REST APIs, JWT authentication, and RBAC**.
 
-I also have experience with **AI API integration, Postman API testing, Git/GitHub, Cloudinary, Vercel, and Render**.
+I also have experience with **AI API integration, Postman API testing, Git/GitHub, Cloudinary, Vercel, Render, Docker, and CI/CD concepts**.
 
 Currently, I am looking for a **full-time Software Developer / Full Stack Developer opportunity** where I can contribute to real-world products, strengthen my engineering skills, and grow with a strong development team.
 
@@ -30,18 +30,18 @@ Currently, I am looking for a **full-time Software Developer / Full Stack Develo
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,python" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python" />
 </p>
 
-**JavaScript (ES6+)** · **Python** · **SQL** · 
+**JavaScript (ES6+)** · **TypeScript** · **Python** · **SQL**
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,typescript,html,css,tailwind,redux" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux" />
 </p>
 
-**React.js** · **TypeScript** · **Redux Toolkit** · **Zustand** · **HTML5** · **CSS3** · **Tailwind CSS**
+**React.js** · **Next.js** · **TypeScript** · **Redux Toolkit** · **Zustand** · **HTML5** · **CSS3** · **Tailwind CSS**
 
 ### Backend
 
@@ -49,7 +49,7 @@ Currently, I am looking for a **full-time Software Developer / Full Stack Develo
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-**Node.js** · **Express.js** · **REST API Design** · **MVC Architecture**
+**Node.js** · **Express.js** · **REST API Design** · **MVC Architecture** · **Modular Backend Architecture**
 
 ### Database
 
@@ -57,27 +57,57 @@ Currently, I am looking for a **full-time Software Developer / Full Stack Develo
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-**MongoDB** · **Mongoose** 
+**MongoDB** · **Mongoose** · **SQL** · **Database Design**
 
 ### Authentication & Security
 
-**JWT Authentication** · **Role-Based Access Control (RBAC)**
+**JWT Authentication** · **Role-Based Access Control (RBAC)** · **API Validation**
+
+### AI Integration
+
+**AI APIs** · **DeepSeek API** · **Hugging Face API** · **AI-powered Features**
 
 ### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode,vercel" />
 </p>
 
-**Git** · **GitHub** · **Postman** · **VS Code** · **Vercel** · **Render** · **Cloudinary**
+**Git** · **GitHub** · **Postman** · **Docker** · **VS Code** · **Vercel** · **Render** · **Cloudinary**
 
 ### Core Concepts
 
-**Object-Oriented Programming** · **Data Structures & Algorithms** · **Debugging**
+**Object-Oriented Programming** · **Data Structures & Algorithms** · **Debugging** · **REST APIs** · **Authentication** · **Database Design** · **Software Architecture**
 
 ---
 
 ## Professional Experience
+
+### MERN Stack Intern — UptoSkills
+
+**Oct 2026 – Present · India · Remote**
+
+* Working on real-world software development tasks as part of the **UptoSkills Internship Program**.
+* Working on assigned **GitHub issues** to identify and resolve bugs and improve existing code.
+* Analysing codebases and understanding project architecture before implementing fixes.
+* Developing and testing code changes based on issue requirements.
+* Creating meaningful **Git commits** and raising **Pull Requests (PRs)** for code review.
+* Participating in daily team meetings to share progress, discuss blockers, and provide task updates.
+* Collaborating with mentors and incorporating feedback to improve code quality and development practices.
+
+---
+
+### MERN Stack Developer — Arpvo Tech
+
+**Sep 2026 – Present · Bengaluru · Remote**
+
+* Contributing to a scalable full-stack application using **Node.js, Express.js, MongoDB, Next.js, and TypeScript**.
+* Developing **REST APIs, authentication, validation, database architecture, and modular backend components**.
+* Building reusable and maintainable frontend architecture using **Next.js, TypeScript, and Tailwind CSS**.
+* Collaborating with developers on **API integration, system design, testing, and technical documentation**.
+* Improving application architecture with a focus on **scalability, performance, security, and maintainability**.
+
+---
 
 ### Web Development Intern — HashCode Technologies
 
@@ -86,7 +116,7 @@ Currently, I am looking for a **full-time Software Developer / Full Stack Develo
 * Built and maintained **10+ reusable React.js components** across production pages using JavaScript and Tailwind CSS.
 * Integrated **Framer Motion** page transitions to improve navigation flow and user interaction.
 * Refined navigation and footer components to maintain consistent layouts across production pages.
-* Standardized typography, colours, and reusable Tailwind utility classes for a consistent UI.
+* Standardised typography, colours, and reusable Tailwind utility classes for a consistent UI.
 
 ---
 
@@ -152,7 +182,7 @@ A MERN-based news platform with personalised content and AI-powered functionalit
 
 ```text
 Frontend
-React.js · TypeScript · JavaScript · Tailwind CSS · Redux Toolkit
+React.js · Next.js · TypeScript · JavaScript · Tailwind CSS · Redux Toolkit · Zustand
 
 Backend
 Node.js · Express.js · REST APIs · MVC Architecture
@@ -161,13 +191,13 @@ Database
 MongoDB · Mongoose · SQL
 
 Authentication
-JWT · RBAC
+JWT · RBAC · API Validation
 
 AI Integration
-AI APIs · Resume Analysis · AI-powered Features
+DeepSeek API · Hugging Face API · AI-powered Features
 
-Tools
-Git · GitHub · Postman · VS Code · Vercel · Render · Cloudinary
+Tools & DevOps
+Git · GitHub · Postman · Docker · Vercel · Render · Cloudinary · CI/CD
 ```
 
 ---
@@ -177,6 +207,7 @@ Git · GitHub · Postman · VS Code · Vercel · Render · Cloudinary
 * Built, tested, and deployed **6 full-stack MERN applications**.
 * Solved **100+ algorithmic problems on LeetCode**.
 * Practised problems involving arrays, strings, recursion, sorting, linked lists, and two-pointer patterns.
+* Actively contributing to real-world codebases through **GitHub Issues, Git commits, Pull Requests, and code reviews**.
 * Continuously improving backend architecture, API design, authentication, database design, and problem-solving skills.
 
 <a href="https://leetcode.com/u/vicky8337284/">View LeetCode Profile</a>
@@ -187,6 +218,7 @@ Git · GitHub · Postman · VS Code · Vercel · Render · Cloudinary
 
 ```text
 Advanced React
+Next.js
 TypeScript
 Backend Architecture
 REST API Design
@@ -196,6 +228,7 @@ Testing
 Docker
 CI/CD
 Cloud & Deployment
+System Design
 ```
 
 ---
@@ -204,7 +237,9 @@ Cloud & Deployment
 
 I am looking for an opportunity where I can work on **real-world software products**, contribute across the frontend and backend, and continue growing as a software engineer.
 
-**Open to:** Full Stack Developer · MERN Stack Developer · Software Developer · Frontend Developer
+**Open to:**
+
+Full Stack Developer · MERN Stack Developer · Software Developer · Frontend Developer
 
 ---
 
