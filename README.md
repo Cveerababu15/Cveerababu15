@@ -77,7 +77,7 @@ Currently, I am looking for a **full-time Software Developer / Full Stack Develo
 
 ### Core Concepts
 
-**Object-Oriented Programming** · **Data Structures & Algorithms** · **Debugging** · **REST APIs** · **Authentication** · **Database Design** · **Software Architecture**
+**Object-Oriented Programming** · **Data Structures & Algorithms** · **Debugging** · **REST APIs** · **Authentication** · **Database Design** · **Software Architecture** · **SDLC*
 
 ---
 
