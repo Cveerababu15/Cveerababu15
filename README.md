@@ -217,13 +217,11 @@ Git · GitHub · Postman · Docker · Vercel · Render · Cloudinary · CI/CD
 ## Currently Learning
 
 ```text
-Advanced React
 Next.js
 TypeScript
 Backend Architecture
 REST API Design
 MongoDB & Database Design
-Authentication & RBAC
 Testing
 Docker
 CI/CD
