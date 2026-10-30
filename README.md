@@ -86,14 +86,11 @@ Currently, I am looking for a **full-time Software Developer / Full Stack Develo
 ### MERN Stack Intern — UptoSkills
 
 **Oct 2026 – Present · India · Remote**
+* Working on real-world **MERN Stack development tasks** and assigned GitHub issues.
+* Analysing existing codebases, identifying bugs, and implementing required fixes.
+* Developing, testing, and submitting code changes through **Git commits and Pull Requests**.
+* Collaborating with mentors and team members through daily discussions and code reviews.
 
-* Working on real-world software development tasks as part of the **UptoSkills Internship Program**.
-* Working on assigned **GitHub issues** to identify and resolve bugs and improve existing code.
-* Analysing codebases and understanding project architecture before implementing fixes.
-* Developing and testing code changes based on issue requirements.
-* Creating meaningful **Git commits** and raising **Pull Requests (PRs)** for code review.
-* Participating in daily team meetings to share progress, discuss blockers, and provide task updates.
-* Collaborating with mentors and incorporating feedback to improve code quality and development practices.
 
 ---
 
