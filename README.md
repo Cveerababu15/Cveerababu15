@@ -49,8 +49,8 @@ Currently, I am looking for a **full-time Software Developer / Full Stack Develo
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-**Node.js** · **Express.js** · **REST API Design** · **MVC Architecture** · **Modular Backend Architecture** 
-
+**Node.js** · **Express.js** · **REST API Design** · **MVC Architecture** · **Modular Backend Architecture** · **Redis** · **CI/CD** 
+ 
 ### Database
 
 <p>
